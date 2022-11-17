@@ -26,9 +26,9 @@ footer {
 }
 /* Simplifying h2 */
 
-h2 [ margin-bottom: 20px;
+h2 { margin-bottom: 20px;
 font-size: 36px;
-]
+}
 
 
 
